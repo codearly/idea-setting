@@ -1,7 +1,14 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile />
+      <Profile>
+        <option name="userMacSet">
+          <set>
+            <option value="88-78-73-2F-55-3F" />
+          </set>
+        </option>
+        <option name="valid" value="true" />
+      </Profile>
     </option>
   </component>
 </application>
