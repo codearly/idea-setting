@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="ifUseNewMapping" value="48" />
         <option name="userMacSet">
           <set>
             <option value="88-78-73-2F-55-3F" />
