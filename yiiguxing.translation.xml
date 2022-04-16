@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether the property is a unique key" />
+      <item value="(Optional) Whether the database column is nullable." />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.http.converter.HttpMessageConversionException: Type definition error: [simple type, class org.apache.catalina.User]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `org.apache.catalina.User` (no Creators, like default constructor, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information at [Source: (PushbackInputStream); line: 1, column: 1]] with root cause" />
       <item value="Cannot find method writeReplace, please make sure that the lambda composite class is currently passed in]" />
       <item value="w.a.UsernamePasswordAuthenticationFilter : An internal error occurred while trying to authenticate the user." />
@@ -8,12 +10,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648364308815" />
+    <option name="lastTrimTime" value="1650095807516" />
   </component>
 </application>
